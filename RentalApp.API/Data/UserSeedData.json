@@ -1,0 +1,77 @@
+[
+    {
+      "name": "Flum",
+      "price": 250,
+      "City": "Maury",
+      "Facilities": "Laborum dolore sit voluptate cillum amet nostrud enim Lorem excepteur ad reprehenderit. Id velit laboris do consequat aute amet voluptate enim officia aute excepteur quis. Veniam cillum anim amet non dolor. Exercitation aliquip esse ut sunt amet dolor nisi eiusmod excepteur exercitation duis enim. Deserunt aliquip veniam aute reprehenderit laborum dolore fugiat excepteur eu fugiat. Tempor dolor ad do reprehenderit amet tempor aliquip laboris minim sunt minim. Esse adipisicing in cillum velit cupidatat qui laboris.\r\n",
+      "AvailableFrom": "2020-08-20",
+      "AvailableTill": "2020-09-17",
+      "Photos": [
+        {
+          "url": "https://source.unsplash.com/user/housemethod/1600x900",
+          "isMain": true,
+          "description": "Exercitation sit minim fugiat anim laboris velit fugiat amet eu reprehenderit laboris reprehenderit culpa enim."
+        }
+      ]
+    },
+    {
+      "name": "Interfind",
+      "price": 984,
+      "City": "Enlow",
+      "Facilities": "Id irure veniam ad officia culpa in sit commodo sunt proident. Excepteur ut exercitation cillum nostrud sint nulla ullamco fugiat adipisicing sint consequat aliqua reprehenderit culpa. Velit est sint velit ex non nostrud. Consectetur aliqua laborum enim enim sunt do nostrud proident officia. Id aliqua laborum quis deserunt sunt. Aute enim irure est magna labore non veniam adipisicing Lorem dolor. Et aliqua exercitation et consequat sint anim cupidatat elit sunt officia adipisicing.\r\n",
+      "AvailableFrom": "2020-08-15",
+      "AvailableTill": "2020-09-09",
+      "Photos": [
+        {
+          "url": "https://source.unsplash.com/user/housemethod/1600x900",
+          "isMain": true,
+          "description": "Commodo dolore dolor adipisicing elit adipisicing et minim tempor mollit aliqua cupidatat amet."
+        }
+      ]
+    },
+    {
+      "name": "Gink",
+      "price": 647,
+      "City": "Vienna",
+      "Facilities": "In Lorem aute ut mollit amet consequat occaecat mollit ullamco ea incididunt. Consequat ad adipisicing sunt aliquip culpa officia voluptate. Anim culpa minim id tempor Lorem. Do pariatur irure labore velit laborum duis nostrud cupidatat deserunt nulla. Duis non incididunt aliqua enim do sunt anim labore velit.\r\n",
+      "AvailableFrom": "2020-08-16",
+      "AvailableTill": "2020-09-01",
+      "Photos": [
+        {
+          "url": "https://source.unsplash.com/user/housemethod/1600x900",
+          "isMain": true,
+          "description": "In sint ad nostrud velit aliqua aliqua anim."
+        }
+      ]
+    },
+    {
+      "name": "Speedbolt",
+      "price": 591,
+      "City": "Talpa",
+      "Facilities": "Lorem Lorem eu occaecat nulla duis reprehenderit Lorem veniam dolor adipisicing eu labore. Occaecat et in anim elit proident ex sint consectetur consectetur ipsum ipsum. Eiusmod duis occaecat occaecat elit quis in eiusmod laboris. Eu fugiat aute officia non magna deserunt excepteur anim.\r\n",
+      "AvailableFrom": "2020-08-12",
+      "AvailableTill": "2020-09-05",
+      "Photos": [
+        {
+          "url": "https://source.unsplash.com/user/housemethod/1600x900",
+          "isMain": true,
+          "description": "Fugiat ipsum ullamco aliquip aliquip velit aliqua ullamco laboris excepteur quis nisi nulla."
+        }
+      ]
+    },
+    {
+      "name": "Medcom",
+      "price": 307,
+      "City": "Brule",
+      "Facilities": "Eu tempor non tempor cillum sint ut quis duis culpa fugiat sint in nulla. Aute est cillum dolore incididunt est amet consequat officia ullamco ipsum nostrud culpa aliqua ut. Minim commodo consequat deserunt velit sunt labore. Eu reprehenderit nostrud consequat veniam irure. Ipsum sunt est aliqua ex voluptate ad. Excepteur sint eiusmod do cillum do dolor mollit consectetur labore. Cillum est deserunt amet tempor eiusmod minim ad irure ad velit.\r\n",
+      "AvailableFrom": "2020-08-27",
+      "AvailableTill": "2020-09-27",
+      "Photos": [
+        {
+          "url": "https://source.unsplash.com/user/housemethod/1600x900",
+          "isMain": true,
+          "description": "Dolore mollit cillum laboris ex ullamco enim exercitation ea occaecat deserunt."
+        }
+      ]
+    }
+  ]
